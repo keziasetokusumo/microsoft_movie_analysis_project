@@ -37,7 +37,7 @@ Of all movies recorded in IMDB, the top 10 with the highest rating and number of
 ### Conclusions / Recommendations
 * Microsoft should keep their movie run times consistent with or near the industry average, ideally between 80-100 minutes
 * Microsoft can leverage BV Studio's best practices, especially focusing on developing successful movies in action and adventure
-* When casting for the movie and selecting the third-party crew, Microsoft can start by considering individuals such as Brian Baucum, Paul Greive, and Lindsay Thompson, among others
+* When people think of movies, they often only remember famous cast members, however, selecting the crew behind the camera is just as important - Microsoft can start by considering individuals such as Brian Baucum, Paul Greive, and Lindsay Thompson, among others
 
 ### Data Considerations and Limitations
 * Look at the available budget and compare it to gross proceeds, as some companies have more resources than others
