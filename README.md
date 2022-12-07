@@ -1,4 +1,4 @@
-# Movie Analysis
+# Microsoft Movie Analysis
 
 Understanding the success of movies through data analytics
 
@@ -14,3 +14,7 @@ The IMDB website contains detailed information about all movies that have been r
 This project begins by analyzing basic facts about the movie, such as the typical run time in this case. The analysis then pivots to determine which studio has yeilded the most in total gross proceeds up to date - the purpose behind this is to understand which company is currently leading the space. From there, Microsoft can narrow their focus to study the type of movies genres that the leading studio produces most often. Lastly, this project identifies popular persons to provide Microsoft with an initial direction of who to involve in their projects.
 
 ### Results
+
+### Conclusions / Recommendations
+
+### Data Considerations and Limitations
