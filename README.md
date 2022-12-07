@@ -17,6 +17,16 @@ This project begins by analyzing basic facts about the movie, such as the typica
 
 ### Results
 
+<img width="416" alt="Screen Shot 2022-12-06 at 9 07 29 PM" src="https://user-images.githubusercontent.com/111642763/206070314-535fc535-a8c2-4375-a6c2-1d710453a90b.png">
+
+
+<img width="1094" alt="Screen Shot 2022-12-06 at 9 07 46 PM" src="https://user-images.githubusercontent.com/111642763/206070337-97facdad-9dbc-4885-bb1a-226584da82ea.png">
+
+<img width="1123" alt="Screen Shot 2022-12-06 at 9 08 12 PM" src="https://user-images.githubusercontent.com/111642763/206070349-9a638f63-8682-437b-8491-d50b39d2e0ae.png">
+
+<img width="1112" alt="Screen Shot 2022-12-06 at 9 08 21 PM" src="https://user-images.githubusercontent.com/111642763/206070356-6208bb15-80aa-4f5f-8d94-c7a8c0c46591.png">
+
+
 ### Conclusions / Recommendations
 
 ### Data Considerations and Limitations
