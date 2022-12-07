@@ -2,6 +2,8 @@
 
 Understanding the success of movies through data analytics
 
+![RT_300EssentialMovies_700X250](https://user-images.githubusercontent.com/111642763/206069521-7a4f0ba1-f846-43c9-ac06-bbb5c6d8080a.jpg)
+
 ## Overview and Business Problem
 
 Microsoft is looking to enter the film making space and their next venture is to launch a movie studio. As part of their plans to break into the industry, Microsoft needs to conduct an initial data analysis of current competitors to determine the types of movies they should produce. Popular movies in recent years can be linked to certain genres and persons. Microsoft can leverage this type of data analysis as time goes by to gain an understanding of the public's current preferences to operate their movie-making business.
