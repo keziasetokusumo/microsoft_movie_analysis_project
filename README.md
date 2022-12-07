@@ -11,6 +11,6 @@ Microsoft is looking to enter the film making space and their next venture is to
 The IMDB website contains detailed information about all movies that have been released, such as genre, year, rating, cast, production, and more. Additionally, Box Office Mojo summarizes financial data for each movie to show performance through metrics such as gross domestic proceeds.
 
 ### Methods
-This project looks at studio that has yeilded the most in gross domestic proceeds up to date to identify which company is leading the space. From there, Microsoft can narrow their focus to study the type of movies the leading studio produces and follow its best practices. This project also looks at popular genre combinations and associated persons to provide some initial direction when it comes to creative ideas behind Microsoft's first movie.
+This project begins by analyzing basic facts about the movie, such as the typical run time in this case. The analysis then pivots to determine which studio has yeilded the most in total gross proceeds up to date - the purpose behind this is to understand which company is currently leading the space. From there, Microsoft can narrow their focus to study the type of movies genres that the leading studio produces most often. Lastly, this project identifies popular persons to provide Microsoft with an initial direction of who to involve in their projects.
 
 ### Results
