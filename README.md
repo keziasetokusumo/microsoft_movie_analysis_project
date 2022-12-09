@@ -45,5 +45,5 @@ Of all movies recorded in IMDB, the top 10 with the highest rating and number of
 * Much of a movie's success is also due to how well it's remembered - future data analysis can also look at how long a movie was being showed since release or how many replays a movie received on streaming platforms like Netflix/Hulu
 
 ## Data Sources
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
+* [Box Office Mojo](https://www.boxofficemojo.com/) tracks box-office revenue, related news, and analysis
+* [IMDB](https://www.imdb.com/) is an online database for films and TV shows, including information such as cast, production crew, ratings, and reviews
