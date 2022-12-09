@@ -17,20 +17,24 @@ This project begins by analyzing basic facts about the movie, such as the typica
 
 ### Results
 
-Most movies have a duration near 100 minutes, with the average run time at ~86 minutes.
+Most movies have a duration near 100 minutes, with the average run time at ~86 minutes
+
 <img width="984" alt="Screen Shot 2022-12-09 at 12 16 55 PM" src="https://user-images.githubusercontent.com/111642763/206757251-b82a5e9d-b9d3-4bb9-b0d1-f5529448bd6c.png">
 
 
 On average, BV Studios records the highest total gross proceeds per movie when compared to other major studios
+
 <img width="963" alt="Screen Shot 2022-12-09 at 12 17 04 PM" src="https://user-images.githubusercontent.com/111642763/206757274-2a2efb45-5244-41bf-ba88-550ae32a1375.png">
 
 
 BV Studios often releases movies with the following genre combinations: (1) Adventure/Animation/Comedy; (2) Action/Adventure/Sci-Fi; (3) Action/Adventure/Fantasy
+
 <img width="1126" alt="Screen Shot 2022-12-09 at 12 17 15 PM" src="https://user-images.githubusercontent.com/111642763/206757321-68ba33a1-7871-40c3-bd5f-9323b9a8f434.png">
 
 
 
 Of all movies recorded in IMDB, the top 10 with the highest rating and number of votes are linked to the persons shown in the visualization below
+
 <img width="1114" alt="Screen Shot 2022-12-09 at 12 17 24 PM" src="https://user-images.githubusercontent.com/111642763/206757342-f567fda2-53f4-46d0-aa91-13e8232e4434.png">
 
 
