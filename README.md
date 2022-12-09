@@ -10,7 +10,7 @@ Microsoft is looking to enter the film making space and their next venture is to
 
 ### The Data
 
-The [IMDB website](https://www.imdb.com/) contains detailed information about all movies that have been released, such as genre, year, rating, cast, production, and more. Additionally, [Box Office Mojo](https://www.boxofficemojo.com/) summarizes financial data for each movie to show performance through metrics such as gross domestic proceeds.
+Public databases from sources such as [IMDB](https://www.imdb.com/) and [Box Office Mojo](https://www.boxofficemojo.com/) can be leveraged to gain a better understanding of the type of movies that competitor studios are releasing. They contain relevant information such as release year, cast, genre, gross proceeds, and more. See an example of an IMDB entry from the TV series Wednesday [here](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_i_1_pd_fp1). See an example of a Box Office Mojo entry from the movie Black Panther: Wakanda Forever [here](https://www.boxofficemojo.com/release/rl3573908993/?ref_=bo_hm_rd).
 
 ### Methods
 This project begins by analyzing basic facts about the movie, such as the typical run time in this case. The analysis then pivots to determine which studio has yeilded the most in total gross proceeds up to date - the purpose behind this is to understand which company is currently leading the space. From there, Microsoft can narrow their focus to study the type of movies genres that the leading studio produces most often. Lastly, this project identifies popular persons to provide Microsoft with an initial direction of who to involve in their projects.
