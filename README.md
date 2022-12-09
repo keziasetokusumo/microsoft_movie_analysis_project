@@ -45,8 +45,4 @@ Of all movies recorded in IMDB, the top 10 with the highest rating and number of
 * Much of a movie's success is also due to how well it's remembered - future data analysis can also look at how long a movie was being showed since release or how many replays a movie received on streaming platforms like Netflix/Hulu
 
 ### Repository Structure
-├── images
-├── zippedData
-├── README.md
-├── movie_analysis_jupyternotebook.ipynb
-└── p1_project_deliverable.pdf
+
