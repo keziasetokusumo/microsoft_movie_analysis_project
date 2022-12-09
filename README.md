@@ -18,20 +18,20 @@ This project begins by analyzing basic facts about the movie, such as the typica
 ### Results
 
 Most movies have a duration near 100 minutes, with the average run time at ~86 minutes.
-
-<img width="416" alt="Screen Shot 2022-12-06 at 9 07 29 PM" src="https://user-images.githubusercontent.com/111642763/206070314-535fc535-a8c2-4375-a6c2-1d710453a90b.png">
+<img width="984" alt="Screen Shot 2022-12-09 at 12 16 55 PM" src="https://user-images.githubusercontent.com/111642763/206757251-b82a5e9d-b9d3-4bb9-b0d1-f5529448bd6c.png">
 
 
 On average, BV Studios records the highest total gross proceeds per movie when compared to other major studios
-
-<img width="1094" alt="Screen Shot 2022-12-06 at 9 07 46 PM" src="https://user-images.githubusercontent.com/111642763/206070337-97facdad-9dbc-4885-bb1a-226584da82ea.png">
+<img width="963" alt="Screen Shot 2022-12-09 at 12 17 04 PM" src="https://user-images.githubusercontent.com/111642763/206757274-2a2efb45-5244-41bf-ba88-550ae32a1375.png">
 
 
 BV Studios often releases movies with the following genre combinations: (1) Adventure/Animation/Comedy; (2) Action/Adventure/Sci-Fi; (3) Action/Adventure/Fantasy
-<img width="1123" alt="Screen Shot 2022-12-06 at 9 08 12 PM" src="https://user-images.githubusercontent.com/111642763/206070349-9a638f63-8682-437b-8491-d50b39d2e0ae.png">
+<img width="1126" alt="Screen Shot 2022-12-09 at 12 17 15 PM" src="https://user-images.githubusercontent.com/111642763/206757321-68ba33a1-7871-40c3-bd5f-9323b9a8f434.png">
+
+
 
 Of all movies recorded in IMDB, the top 10 with the highest rating and number of votes are linked to the persons shown in the visualization below
-<img width="1112" alt="Screen Shot 2022-12-06 at 9 08 21 PM" src="https://user-images.githubusercontent.com/111642763/206070356-6208bb15-80aa-4f5f-8d94-c7a8c0c46591.png">
+<img width="1114" alt="Screen Shot 2022-12-09 at 12 17 24 PM" src="https://user-images.githubusercontent.com/111642763/206757342-f567fda2-53f4-46d0-aa91-13e8232e4434.png">
 
 
 ### Conclusions / Recommendations
