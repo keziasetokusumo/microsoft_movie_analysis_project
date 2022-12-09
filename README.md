@@ -43,3 +43,5 @@ Of all movies recorded in IMDB, the top 10 with the highest rating and number of
 * Look at the available budget and compare it to gross proceeds, as some companies have more resources than others
 * Conduct data analysis of which type of movies have been popular during different years, as public preferences often change
 * Much of a movie's success is also due to how well it's remembered - future data analysis can also look at how long a movie was being showed since release or how many replays a movie received on streaming platforms like Netflix/Hulu
+
+[Presentation] (http://localhost:8888/files/p1_project/p1_project_deliverable.pdf)
