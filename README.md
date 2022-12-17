@@ -18,24 +18,19 @@ This project begins by analyzing basic facts about the movie, such as the typica
 ### Results
 
 Most movies have a duration near 100 minutes, with the average run time at ~86 minutes
-
 <img width="984" alt="Screen Shot 2022-12-09 at 12 16 55 PM" src="https://user-images.githubusercontent.com/111642763/206757251-b82a5e9d-b9d3-4bb9-b0d1-f5529448bd6c.png">
 
 
-On average, BV Studios records the highest total gross proceeds per movie when compared to other major studios
-
-<img width="963" alt="Screen Shot 2022-12-09 at 12 17 04 PM" src="https://user-images.githubusercontent.com/111642763/206757274-2a2efb45-5244-41bf-ba88-550ae32a1375.png">
-
-
-BV Studios often releases movies with the following genre combinations: (1) Adventure/Animation/Comedy; (2) Action/Adventure/Sci-Fi; (3) Action/Adventure/Fantasy
-
-<img width="1126" alt="Screen Shot 2022-12-09 at 12 17 15 PM" src="https://user-images.githubusercontent.com/111642763/206757321-68ba33a1-7871-40c3-bd5f-9323b9a8f434.png">
+On average, BV Studios records the highest total gross proceeds per movie when compared to other major studios that have released over 50 films
+<img width="859" alt="Screen Shot 2022-12-17 at 1 53 57 PM" src="https://user-images.githubusercontent.com/111642763/208258170-7f55e13f-9c39-4bba-984b-1b7fce860bec.png">
 
 
+Among BV Studios' 20 highest grossing films, the three most common genre combinations are: (1) Action/Adventure/Sci-Fi; (2) Adventure/Animation/Comedy; (3) Action/Adventure/Comedy
+<img width="1029" alt="Screen Shot 2022-12-17 at 1 50 49 PM" src="https://user-images.githubusercontent.com/111642763/208258108-2a205d17-efca-4452-a65f-9fd65d9512a0.png">
 
-Of all movies recorded in IMDB, the top 10 with the highest rating and number of votes are linked to the persons shown in the visualization below
 
-<img width="1114" alt="Screen Shot 2022-12-09 at 12 17 24 PM" src="https://user-images.githubusercontent.com/111642763/206757342-f567fda2-53f4-46d0-aa91-13e8232e4434.png">
+The following directors were involved in the production for BV Studios' 20 highest grossing films that received strong ratings of 7 or above
+<img width="1048" alt="Screen Shot 2022-12-17 at 1 51 49 PM" src="https://user-images.githubusercontent.com/111642763/208258256-aa4ebba3-3b0d-4e62-9365-87579ceb5deb.png">
 
 
 ### Conclusions / Recommendations
@@ -54,3 +49,11 @@ For detailed copy of the data analysis process and related code, please refer to
 ## Data Sources
 * [Box Office Mojo](https://www.boxofficemojo.com/) tracks box-office revenue, related news, and analysis
 * [IMDB](https://www.imdb.com/) is an online database for films and TV shows, including information such as cast, production crew, ratings, and reviews
+
+## Repository Structure
+* images
+* zippedData
+* .gitignore
+* README.md
+* movie_analysis_jupyternotebook.ipynb
+* p1_project_deliverable.pdf
