@@ -13,23 +13,27 @@ Microsoft is looking to enter the film making space and their next venture is to
 Public databases from sources such as [IMDB](https://www.imdb.com/) and [Box Office Mojo](https://www.boxofficemojo.com/) can be leveraged to gain a better understanding of the type of movies that competitor studios are releasing. They contain relevant information such as release year, cast, genre, gross proceeds, and more. See an example of an IMDB entry from the TV series "Wednesday" [here](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_i_1_pd_fp1). See an example of a Box Office Mojo entry from the movie "Black Panther: Wakanda Forever" [here](https://www.boxofficemojo.com/release/rl3573908993/?ref_=bo_hm_rd).
 
 ### Methods
-This project begins by analyzing basic facts about the movie, such as the typical run time in this case. The analysis then pivots to determine which studio has yeilded the most in total gross proceeds up to date - the purpose behind this is to understand which company is currently leading the space. From there, Microsoft can narrow their focus to study the type of movies genres that the leading studio produces most often. Lastly, this project identifies popular persons to provide Microsoft with an initial direction of who to involve in their projects.
+This project begins by analyzing basic facts about the movie, such as the typical run time in this case. The analysis then pivots to determine which studio has yielded the most in total gross proceeds up to date - the purpose behind this is to understand which company is currently leading the space. From there, Microsoft can narrow their focus to study the type of movies genres that the leading studio's most financially successful films contain. Lastly, the project identifies financially successful directors to provide Microsoft with an initial direction of who to involve in their projects.
 
 ### Results
 
 Most movies have a duration near 100 minutes, with the average run time at ~86 minutes
+
 <img width="984" alt="Screen Shot 2022-12-09 at 12 16 55 PM" src="https://user-images.githubusercontent.com/111642763/206757251-b82a5e9d-b9d3-4bb9-b0d1-f5529448bd6c.png">
 
 
 On average, BV Studios records the highest total gross proceeds per movie when compared to other major studios that have released over 50 films
+
 <img width="859" alt="Screen Shot 2022-12-17 at 1 53 57 PM" src="https://user-images.githubusercontent.com/111642763/208258170-7f55e13f-9c39-4bba-984b-1b7fce860bec.png">
 
 
 Among BV Studios' 20 highest grossing films, the three most common genre combinations are: (1) Action/Adventure/Sci-Fi; (2) Adventure/Animation/Comedy; (3) Action/Adventure/Comedy
+
 <img width="1029" alt="Screen Shot 2022-12-17 at 1 50 49 PM" src="https://user-images.githubusercontent.com/111642763/208258108-2a205d17-efca-4452-a65f-9fd65d9512a0.png">
 
 
 The following directors were involved in the production for BV Studios' 20 highest grossing films that received strong ratings of 7 or above
+
 <img width="1048" alt="Screen Shot 2022-12-17 at 1 51 49 PM" src="https://user-images.githubusercontent.com/111642763/208258256-aa4ebba3-3b0d-4e62-9365-87579ceb5deb.png">
 
 
