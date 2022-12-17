@@ -39,9 +39,9 @@ Of all movies recorded in IMDB, the top 10 with the highest rating and number of
 
 
 ### Conclusions / Recommendations
-* Microsoft should keep their movie run times consistent with or near the industry average, ideally between 80-100 minutes
-* Microsoft can leverage BV Studio's best practices, especially focusing on developing successful movies in action and adventure
-* When people think of movies, they often only remember famous cast members, however, selecting the crew behind the camera is just as important - Microsoft can start by considering individuals such as Brian Baucum, Paul Greive, and Lindsay Thompson, among others
+* Microsoft should keep their movie run times consistent with or near the industry average of 86 minutes, ideally between 75-100 minutes
+* BV Studios' highest 20 grossing films were mostly within the genre combinations of Action/Adventure/Sci-Fi, Adventure/Animation/Comedy, and Action/Adventure/Comedy - Microsoft should focus on specializing in movies with these genres, especially the theme of Adventure
+* When people think of movies, they often only remember famous cast members, however, selecting the crew behind the camera is just as important - Microsoft should look to hire directors such as Lee Unkrich and Ronnie Del Carmen, who were involved in the production for BV Studios' 20 highest grossing films that received strong ratings of 7 or above
 
 ### Data Considerations and Limitations
 * Look at the available budget and compare it to gross proceeds, as some companies have more resources than others
